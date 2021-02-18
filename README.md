@@ -2,7 +2,7 @@
  
 # Hi Dear Friend! :)
  
-## I'm Maria Rayara! Let me present a little about myself. 
+## I'm Mary Balieiro! Let me present a little about myself. 
  
 :computer: Junior Developer focused in C!!
 
@@ -15,4 +15,4 @@
  
 -  Thank you very much for visiting!!! 
  
-- Enjoy it!! o/
+- :heart: :heart: :heart:
