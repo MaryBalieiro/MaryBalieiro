@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src=" https://weheartit.com/entry/332358797">
+<img align="right" width="500" height="500" src=" https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
  
 # Hi Dear Friend! :)
  
