@@ -20,5 +20,5 @@ Lover of coding and Technology
  
 -  Thank you very much for visiting!!! 
  
-- Enjoy it!! o/
+- Enjoy it!! 
 
