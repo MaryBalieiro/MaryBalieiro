@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src=" https://www.google.com/search?q=octodex.github&source=lnms&tbm=isch&sa=X&ved=2ahUKEwibq_Oin_LuAhVWH7kGHbQVCvEQ_AUoA3oECAoQBQ&biw=1366&bih=625#imgrc=_8vEjW65OotudM">
+<img align="right" width="500" height="500" src=" https://res.cloudinary.com/practicaldev/image/fetch/s--e991L5aA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://octodex.github.com/images/nyantocat.gif">
  
 # Hi Dear Friend! :)
  
