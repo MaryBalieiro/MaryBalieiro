@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src=" https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+<img align="right" width="500" height="500" src=" ![original](https://user-images.githubusercontent.com/62717802/108294449-ba428a00-7174-11eb-87eb-24a2ec836cdb.jpg)">
  
 # Hi Dear Friend! :)
  
