@@ -1,12 +1,12 @@
-<img align="right" width="500" height="500" src=" ![original](https://user-images.githubusercontent.com/62717802/108294449-ba428a00-7174-11eb-87eb-24a2ec836cdb.jpg)">
+<img align="right" width="400" height="400" src=" ![original](https://user-images.githubusercontent.com/62717802/108294449-ba428a00-7174-11eb-87eb-24a2ec836cdb.jpg)">
  
 # Hi Dear Friend! :)
  
 ## I'm Maria Rayara! Let me present a little about myself. 
  
-Junior Developer focused in C!!
+:computer: Junior Developer focused in C!!
 
-Lover of coding and Technology 
+:heart: Lover of coding and Technology 
  
  
 ## About me 
