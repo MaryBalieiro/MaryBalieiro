@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src=" https://res.cloudinary.com/practicaldev/image/fetch/s--e991L5aA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://octodex.github.com/images/nyantocat.gif">
+<img align="right" width="500" height="500" src=" https://weheartit.com/entry/332358797">
  
 # Hi Dear Friend! :)
  
