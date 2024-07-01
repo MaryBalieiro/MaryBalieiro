@@ -4,7 +4,7 @@
  
 ## I'm Mary Balieiro! Let me present a little about myself. 
  
-:computer: Junior Developer focused in C!!
+:computer: I am a control and automation engineer with a focus on data analysis, specializing in Power BI!!
 
 :heart: Lover of coding and Technology 
  
